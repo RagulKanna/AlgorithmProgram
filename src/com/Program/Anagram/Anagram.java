@@ -21,7 +21,7 @@ public class Anagram {
 
         if (str1.length() != str2.length()) {
             System.out.println("\n The strings are not equal");
-            System.out.println("\n " + s1 + " and " + s2 + " are not anagram")
+            System.out.println("\n " + s1 + " and " + s2 + " are not anagram");
         } else {
             char[] ArrayS1 = s1.toLowerCase().toCharArray();
             char[] ArrayS2 = s2.toLowerCase().toCharArray();
