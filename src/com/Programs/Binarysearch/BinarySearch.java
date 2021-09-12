@@ -12,13 +12,9 @@ public class BinarySearch {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         splitarray();
-        sort();
-        System.out.println("\n Enter the Text to Find:");
-        String key=sc.next();
-        int last= word.length-1;
-        binarysearch(word,0,last,key);
-
     }
+
+
     public static void splitarray(){
         try
         {

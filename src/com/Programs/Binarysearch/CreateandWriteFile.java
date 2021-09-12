@@ -17,7 +17,7 @@ public class CreateandWriteFile {
 
         try {
             FileWriter filewrite = new FileWriter("binaryfile.txt");
-            filewrite.write("hai hello welcome niceday");
+            filewrite.write("hello look good way to home");
             filewrite.close();
             System.out.println("Successfully wrote to the file.");
         } catch (IOException e) {
