@@ -1,4 +1,4 @@
-package com.Programs.Binarysearch;
+package com.Program.Binarysearch;
 
 import java.io.*;
 import java.util.Arrays;
